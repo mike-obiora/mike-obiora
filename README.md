@@ -11,10 +11,9 @@ Jenkins, Terraform, Git, PostgresSQL, SQL,
 
 ### IT Platform
 **On-premise infrastructure**
+
 <br>**Cloud Computing**<br>
-<br>Amazon Web Service (AWS) <br>
-<br>Microsoft Azure <br>
-<br>Google Cloud Platform (GCP)<br>
+<br>Amazon Web Service (AWS), Microsoft Azure, Google Cloud Platform (GCP)
 
 ### Soft Skills
 I'm empathetic, reliable, hardworking, and an excellent team collaborator who leads by example.
