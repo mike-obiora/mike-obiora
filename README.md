@@ -1,4 +1,4 @@
-### Hi, I am Mike Obiora 👋
+👋 **### Hi, I am Mike Obiora **
 
 
 <div id="header" align="center">
