@@ -10,11 +10,12 @@ I'm passionate about learning new IT technology and sharing knowledge. Currently
 Jenkins, Terraform, Git, PostgresSQL, SQL, 
 
 ### IT Platform
-On premises infrastructure
-Cloud Computing - 
-Amazon Web Service (AWS) 
-Microsoft AzUre 
-Google Cloud Platform (GCP)
+On-premise infrastructure
+
+##Cloud Computing
+<br>Amazon Web Service (AWS) <br>
+<br>Microsoft Azure <br>
+<br>Google Cloud Platform (GCP)<br>
 
 ### Soft Skills
 I'm empathetic, reliable, hardworking, and an excellent team collaborator who leads by example.
