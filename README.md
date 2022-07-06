@@ -10,9 +10,8 @@ I'm passionate about learning new IT technology and sharing knowledge. Currently
 Jenkins, Terraform, Git, PostgresSQL, SQL, 
 
 ### IT Platform
-On-premise infrastructure
-
-##Cloud Computing
+**On-premise infrastructure**
+<br>**Cloud Computing**<br>
 <br>Amazon Web Service (AWS) <br>
 <br>Microsoft Azure <br>
 <br>Google Cloud Platform (GCP)<br>
