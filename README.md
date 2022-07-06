@@ -8,6 +8,15 @@ I'm empathetic, reliable, hardworking, and an excellent team collaborator who le
 
 Currently, I am transistioning into being a Cloud and DevOps Engineer. 
 
+
+👀 Outside of work I enjoy
+
+👗 Sports: I enjoy watching Formula 1 racing and football. 
+🍞 Eating carbs: All forms of bread and pasta are my life
+📚 Reading: I read books a lot too; mostly tech related books. 
+
+<br>⚡ Fun fact: <br>
+
+
 <br>📫 How to reach me: https://www.linkedin.com/in/mike-obiora/ <br>
 <br>😄 Pronouns: He/Him <br>
-<br>⚡ Fun fact: <br>
