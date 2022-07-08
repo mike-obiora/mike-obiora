@@ -26,3 +26,6 @@ I'm empathetic, reliable, hardworking, and an excellent team collaborator who le
 ### Contact
 https://www.linkedin.com/in/mike-obiora/
 <br>https://www.buymeacoffee.com/mikeyobiora<br>
+
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-obiora)](https://github.com/mike-obiora/github-readme-stats)
+
